@@ -1,3 +1,3 @@
 # jlox: Again
 
-The 2nd attempt of creating the jlox interpreter from Crafting Interpreters.
+Please see [this repository](https://github.com/bqbbo/jlox-interpreter/) until this README is expanded
