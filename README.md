@@ -1,3 +1,3 @@
-# jlox: Again
+# jlox: The Java Implementation of Lox
 
-Please see [this repository](https://github.com/bqbbo/jlox-interpreter/) until this README is expanded
+This README is still a WIP and will be completed after I finish the scanner
